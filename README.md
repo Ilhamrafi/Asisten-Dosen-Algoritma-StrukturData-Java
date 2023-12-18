@@ -10,7 +10,7 @@ Repository ini berisi dokumentasi dan materi praktik yang saya buat selama menja
 5. **Array**: Pemahaman dan penerapan array.
 6. **Sorting Algorithms**: Bubble Sort dan Quick Sort dalam konteks Java.
 
-## Cara Menggunakan
+## Penggunaan
 
 1. Klone repositori ini ke mesin lokal Anda:
 
