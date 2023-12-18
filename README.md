@@ -15,7 +15,7 @@ Repository ini berisi dokumentasi dan materi praktik yang saya buat selama menja
 1. Klone repositori ini ke mesin lokal Anda:
 
     ```bash
-    git clone https://github.com/username/repo-algo-strukturdata-java.git
+    git clone https://github.com/Ilhamrafi/Asisten-Dosen-Algoritma-StrukturData-Java.git
     ```
 
 2. Buka dan jalankan proyek Java di Apache NetBeans IDE.
