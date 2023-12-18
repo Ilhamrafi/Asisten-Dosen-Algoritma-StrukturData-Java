@@ -21,5 +21,3 @@ Repository ini berisi dokumentasi dan materi praktik yang saya buat selama menja
 2. Buka dan jalankan proyek Java di Apache NetBeans IDE.
 
 3. Jelajahi berbagai direktori untuk memahami dan menjalankan setiap materi praktik.
-
-4. Ikuti petunjuk yang terdapat di deskripsi setiap file untuk panduan lebih lanjut.
