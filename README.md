@@ -9,6 +9,9 @@ Repository ini berisi dokumentasi dan materi praktik yang saya buat selama menja
 4. **Input-Output**: Penerimaan input dan tampilan output.
 5. **Array**: Pemahaman dan penerapan array.
 6. **Sorting Algorithms**: Bubble Sort dan Quick Sort dalam konteks Java.
+7. **Reference:** Penggunaan referensi dalam pemrograman Java.
+8. **Queue:** Konsep dan implementasi struktur data Queue.
+9. **LinkedList:** Pemahaman dan penerapan struktur data LinkedList.
 
 ## Penggunaan
 
